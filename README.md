@@ -19,7 +19,7 @@ Details:
 
 As you can see in main, the program is initialized with a file called "bacon.ser", which is a
 serialized hash map containing around 1,171,600 actors/actresses playing 3,925,000 roles spread
-out over 331,500 movies. This input hash map is in the form of <String, String[]>, where each row
+out over 331,500 movies. This input hash map is in the form of <<String, String[]>>, where each row
 gives an actor's name and a list of the movies they've appeared in. The BFS happens in the method
 getBaconNumbers. Here, I am allowing the user to pass in an array of any number of actors
 and processing them all at once in order to run a single iteration of BFS instead of one for
