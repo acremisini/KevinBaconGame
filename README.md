@@ -1,5 +1,5 @@
 # KevinBaconGame
-Note:
+
 Use bacon.ser to run the code. 
 
 Overview:
