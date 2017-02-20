@@ -1,4 +1,7 @@
 # KevinBaconGame
+
+Use bacon.ser to run the code. 
+
 Overview:
 
 This is essentially an implementation of breath first search with the goal of replicating the "bacon game",
