@@ -6,7 +6,6 @@ import java.util.*;
 
 public class KevinBaconGame {
 
-
     private HashMap<String,String[]> actor2Movies;
     private HashMap<String, ArrayList<String>> movie2Actors;
     HashMap<String, ActorInfo> actor2BaconNumber;
